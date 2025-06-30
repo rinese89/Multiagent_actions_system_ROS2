@@ -1,0 +1,19 @@
+#Request
+string robot
+string status_rq
+float64 x_pos
+float64 y_pos
+float64 theta
+---
+#Result
+string robot
+string status_rs
+float64 x_pos
+float64 y_pos
+float64 theta
+---
+#Feedback
+string robot
+float64 x_pos
+float64 y_pos
+float64 theta
